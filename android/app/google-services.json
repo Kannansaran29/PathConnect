@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234137351754",
+    "project_id": "pathconnect-a29ac",
+    "storage_bucket": "pathconnect-a29ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234137351754:android:e234d8c34c6bdc5b1618b3",
+        "android_client_info": {
+          "package_name": "com.example.pathconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIiSnc8pR3ahHXYT7PmVIWCr5ReR07Vec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
